@@ -1,0 +1,1 @@
+import{E as a,et as s,f as t,w as r}from"./vendor-3TY56fR2.js";import{n as e}from"./index-CWPYvb9A.js";var o=e({__name:"Card",props:{customClass:{type:String,default:""}},setup:e=>(o,d)=>(r(),t("div",{class:s(["card",e.customClass]),role:"article","aria-label":"卡片内容"},[a(o.$slots,"default",{},void 0,!0)],2))},[["__scopeId","data-v-1a25c939"]]);export{o as t};
